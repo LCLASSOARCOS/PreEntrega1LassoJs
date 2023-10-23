@@ -9,3 +9,7 @@ body {
 .lista-prendas {
     font-size: 2rem;
 }
+
+img {
+    width: 900px;
+}
